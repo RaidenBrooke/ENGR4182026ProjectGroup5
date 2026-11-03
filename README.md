@@ -7,7 +7,7 @@ Developed for **ENGR 418: Applied Machine Learning for Engineers** at the Univer
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 - `notebooks/`: Contains Jupyter / Google Colab notebooks for Exploratory Data Analysis (EDA), feature engineering, and model training.
 - `src/`: Reusable Python modules for data loading and model evaluation.
 - `results/`: Saved figures, performance graphs, and evaluation metrics (RMSE, MAE, $R^2$).
